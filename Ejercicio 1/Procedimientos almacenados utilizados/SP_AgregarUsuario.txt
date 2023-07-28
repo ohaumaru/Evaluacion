@@ -1,0 +1,15 @@
+USE [EvaluacionPromerica]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_AgregarUsuario]    Script Date: 28/07/2023 02:30:26 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE procedure [dbo].[SP_AgregarUsuario]
+@Usuario varchar(250),
+@Contrasenia varchar(250),
+@Fuente varchar(250)
+as
+begin
+insert into Usuarios(usuario, contrasenia) values (@Usuario, ENCRYPTBYPASSPHRASE(@Fuente, @Contrasenia))
+end

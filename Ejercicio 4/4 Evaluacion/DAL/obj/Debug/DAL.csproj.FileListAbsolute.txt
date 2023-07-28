@@ -1,0 +1,14 @@
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\DAL\bin\Debug\DAL.dll
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\DAL\bin\Debug\DAL.pdb
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\DAL\obj\Debug\DAL.dll
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\DAL\obj\Debug\DAL.pdb
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\DAL\bin\Debug\DAL.dll
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\DAL\bin\Debug\DAL.pdb
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\DAL\obj\Debug\DAL.dll
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\DAL\obj\Debug\DAL.pdb

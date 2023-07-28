@@ -1,0 +1,15 @@
+USE [EvaluacionPromerica]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_ComprobarUsuario]    Script Date: 28/07/2023 02:30:29 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE procedure [dbo].[SP_ComprobarUsuario]
+@Usuario varchar(250),
+@Contrasenia varchar(250),
+@Fuente varchar(250)
+as
+begin
+select * from Usuarios where usuario=@Usuario and CONVERT(varchar(250),DECRYPTBYPASSPHRASE(@Fuente, contrasenia))=@Contrasenia
+end

@@ -1,0 +1,10 @@
+Para iniciar sesion se utilizan las siguientes credenciales
+
+Usuario: admin
+Contraseña: password
+
+* Se adjunta proyecto realizado en Visual Studio con la solucion del ejercicio 1
+
+* Se adjuntan los 2 procedimientos almacenados utilizados en el proyecto
+
+* Se adjunta BackUp de la base de datos del proyecto

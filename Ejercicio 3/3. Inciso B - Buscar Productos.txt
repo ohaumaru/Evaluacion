@@ -1,0 +1,33 @@
+USE [Evaluacion Promerica 2]
+GO
+/****** Object:  UserDefinedFunction [dbo].[f_Buscar_Productos]    Script Date: 28/07/2023 02:32:31 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE FUNCTION [dbo].[f_Buscar_Productos] 
+(
+    -- Add the parameters for the function here
+    @tipoProducto int
+)
+RETURNS 
+@TipoProductos TABLE 
+(
+    -- Add the column definitions for the TABLE variable here
+    Proyecto nvarchar(100), Producto nvarchar(100)
+)
+AS
+BEGIN
+    -- Fill the table variable with the rows for your result set
+    Insert @TipoProductos
+    Select p.NOMBRE_PROYECTO, s.DESCRIP_PRODUCTO
+    From 
+	PROYECTO as p 
+		Inner Join
+    PRODUCTO_PROYECTO as r 
+	On p.COD_PROYECTO = r.COD_PROYECTO
+		inner join PRODUCTO as s
+    On s.COD_PRODUCTO = r.COD_PRODUCTO
+    Where p.COD_PROYECTO = @tipoProducto
+    RETURN 
+END

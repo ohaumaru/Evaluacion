@@ -1,0 +1,20 @@
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\BLL\bin\Debug\BLL.dll
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\BLL\bin\Debug\BLL.pdb
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\BLL\bin\Debug\DAL.dll
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\BLL\bin\Debug\DAL.pdb
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\BLL\bin\Debug\DAL.dll.config
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\BLL\obj\Debug\BLL.dll
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\BLL\obj\Debug\BLL.pdb
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\BLL\bin\Debug\BLL.dll
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\BLL\bin\Debug\BLL.pdb
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\BLL\bin\Debug\DAL.dll
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\BLL\bin\Debug\DAL.pdb
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\BLL\bin\Debug\DAL.dll.config
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\BLL\obj\Debug\BLL.dll
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,5 @@
+* Para el ejercicio 3 de la evaluacion se adjunta el BackUp del esquema de BD que 
+proporcionaron.
+
+* En los bloc de notas se encuentran las consultas realizadas para obtener la 
+informacion de los incisos A, B y C, cada documento va debidamente identificado

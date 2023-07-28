@@ -1,0 +1,37 @@
+USE [Evaluacion Promerica 2]
+GO
+/****** Object:  UserDefinedFunction [dbo].[f_Buscar_Mensajes]    Script Date: 28/07/2023 02:33:19 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE FUNCTION [dbo].[f_Buscar_Mensajes] 
+(
+    -- Add the parameters for the function here
+    @tipoMensaje int
+)
+RETURNS 
+@TipoMensajes TABLE 
+(
+    -- Add the column definitions for the TABLE variable here
+    Mensaje nvarchar(100), Proyecto nvarchar(100), Producto nvarchar(100)
+)
+AS
+BEGIN
+    -- Fill the table variable with the rows for your result set
+    Insert @TipoMensajes
+    Select p.NOMBRE_FORMATO_MENSAJE, s.NOMBRE_PROYECTO, t.DESCRIP_PRODUCTO
+    From
+	FORMATO_MENSAJE as p
+		inner join
+	MENSAJE as q
+	on p.COD_FORMATO = q.COD_FORMATO
+		inner join
+	PROYECTO as s
+	on q.COD_PROYECTO = s.COD_PROYECTO
+		inner join
+	PRODUCTO as t
+	on q.COD_PRODUCTO = t.COD_PRODUCTO
+	WHERE p.COD_FORMATO = @tipoMensaje
+	Return 
+END

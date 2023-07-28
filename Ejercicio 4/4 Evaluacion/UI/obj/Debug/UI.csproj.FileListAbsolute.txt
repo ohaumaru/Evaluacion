@@ -1,0 +1,40 @@
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\obj\Debug\UI.FormFilasAfectadas.resources
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\bin\Debug\UI.exe.config
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\bin\Debug\UI.exe
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\bin\Debug\UI.pdb
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\bin\Debug\BLL.dll
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\bin\Debug\DAL.dll
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\bin\Debug\BLL.pdb
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\bin\Debug\DAL.pdb
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\bin\Debug\DAL.dll.config
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\obj\Debug\UI.exe
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\obj\Debug\UI.pdb
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\obj\Debug\UI.FormInsertarProyecto.resources
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\obj\Debug\UI.FormModificarProyecto.resources
+C:\Users\Ohaumaru\source\repos\Evaluacion GEKO\UI\obj\Debug\UI.FormEliminarProyecto.resources
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\bin\Debug\UI.exe.config
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\bin\Debug\UI.exe
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\bin\Debug\UI.pdb
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\bin\Debug\BLL.dll
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\bin\Debug\DAL.dll
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\bin\Debug\BLL.pdb
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\bin\Debug\DAL.pdb
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\bin\Debug\DAL.dll.config
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\obj\Debug\UI.FormEliminarProyecto.resources
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\obj\Debug\UI.FormFilasAfectadas.resources
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\obj\Debug\UI.FormInsertarProyecto.resources
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\obj\Debug\UI.FormModificarProyecto.resources
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\obj\Debug\UI.exe
+C:\Users\Ohaumaru\Desktop\Evaluacion Promerica\Ejercicio 4\4 Evaluacion\UI\obj\Debug\UI.pdb

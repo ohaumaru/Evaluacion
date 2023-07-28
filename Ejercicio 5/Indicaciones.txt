@@ -1,0 +1,3 @@
+* Se adjunta PDF con la respuesta propuesta para el ejercicio 5 de la evaluacion.
+
+* Igualmente se adjunta Script par SQLServer del modelo propuesto para el ejercicio 5

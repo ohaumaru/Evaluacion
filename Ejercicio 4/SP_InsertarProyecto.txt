@@ -1,0 +1,27 @@
+USE [Evaluacion GEKO]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_InsertarProyecto]    Script Date: 28/07/2023 02:39:34 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROCEDURE [dbo].[SP_InsertarProyecto] 
+	 @nombre as nvarchar(100),
+	 @mensaje as nvarchar(250) output
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT OFF;
+	begin tran insertar
+		begin try
+			insert into PROYECTO(NOMBRE_PROYECTO)
+			values (@nombre)
+			commit tran insertar
+			set @mensaje = 'Proyecto agregado correctamente.'
+		end try
+		begin catch
+			set @mensaje = 'Error: Proyecto no se pudo agregar.'
+			rollback tran insertar
+		end catch
+END

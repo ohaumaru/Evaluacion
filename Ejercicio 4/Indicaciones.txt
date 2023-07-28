@@ -1,0 +1,8 @@
+* Para el ejercicio 4 de la evaluacion se utilizo la misma base de datos del ejercicio 3
+
+* En los bloc de notas se adjunta cada procedimiento almacenado para Insertar, Actualizar
+y Eliminar informacion de la tabla Proyecto unicamente.
+
+* Se adjunta el BackUp de la misma base de datos utilizada en el ejercicio 3.
+
+* Se adjunta el proyecto trabajado en Visual Studio.
